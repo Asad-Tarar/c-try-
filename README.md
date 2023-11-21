@@ -1,3 +1,3 @@
 # c-try-
 1st repository
-Author- Tarar
+Author - Tarar (Cambridge International College)
